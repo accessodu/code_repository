@@ -1,0 +1,18 @@
+.stack{
+    font-weight: bold;
+    color:pink
+}
+.addedButton {
+    color: red;
+    background: black;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .visibleInfo {
+    display: block;
+    color:red;
+  }
+  .InvisibleInfo {
+    display: none;
+  }

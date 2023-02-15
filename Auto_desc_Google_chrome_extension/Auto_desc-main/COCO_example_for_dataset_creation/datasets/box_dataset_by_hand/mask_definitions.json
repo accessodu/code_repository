@@ -1,0 +1,183 @@
+{
+    "masks":
+    {
+        "images/001.png":
+        {
+            "mask": "masks/001.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "About_Item", "super_category": "Target"}
+            }
+        },
+        "images/002.png":
+        {
+            "mask": "masks/002.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "About_Item", "super_category": "Target"}
+            }
+        },
+        "images/003.png":
+        {
+            "mask": "masks/003.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc2", "super_category": "Amazon"}
+            }
+        },
+        "images/004.png":
+        {
+            "mask": "masks/004.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc2", "super_category": "Amazon"}
+            }
+        },
+        "images/005.png":
+        {
+            "mask": "masks/005.png",
+            "color_categories":
+            {
+            
+                "(255, 0, 0)": {"category": "abc4", "super_category": "Alibaba"}
+            }
+        },
+        "images/006.png":
+        {
+            "mask": "masks/006.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc4", "super_category": "Alibaba"}
+            }
+        },
+        "images/007.png":
+        {
+            "mask": "masks/007.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc6", "super_category": "Ebay"}
+            }
+        },
+        "images/008.png":
+        {
+            "mask": "masks/008.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc6", "super_category": "Ebay"}
+            }
+        },
+        "images/009.png":
+        {
+            "mask": "masks/009.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc6", "super_category": "Ebay"}
+            }
+        },
+        "images/010.png":
+        {
+            "mask": "masks/010.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc6", "super_category": "Ebay"}
+            }
+        },
+        "images/011.png":
+        {
+            "mask": "masks/011.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc10", "super_category": "Etsy"}
+            }
+        },
+        "images/012.png":
+        {
+            "mask": "masks/012.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc10", "super_category": "Etsy"}
+            }
+        },
+        "images/013.png":
+        {
+            "mask": "masks/013.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc12", "super_category": "Bestbuy"}
+            }
+        },
+        "images/014.png":
+        {
+            "mask": "masks/014.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc12", "super_category": "Bestbuy"}
+            }
+        },
+        "images/015.png":
+        {
+            "mask": "masks/015.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc14", "super_category": "Homedepot"}
+            }
+        },
+        "images/016.png":
+        {
+            "mask": "masks/016.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc14", "super_category": "Homedepot"}
+            }
+        },
+        "images/017.png":
+        {
+            "mask": "masks/017.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc16", "super_category": "Apple"}
+            }
+        },
+        "images/018.png":
+        {
+            "mask": "masks/018.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc16", "super_category": "Apple"}
+            }
+        },
+        "images/019.png":
+        {
+            "mask": "masks/019.png",
+            "color_categories":
+            {
+                "(255, 0, 0)": {"category": "abc18", "super_category": "Wayfair"}
+            }
+        },
+        "images/020.png":
+        {
+            "mask": "masks/020.png",
+            "color_categories":
+            {
+                
+                "(255, 0, 0)": {"category": "abc18", "super_category": "Wayfair"}
+            }
+        }
+        
+    
+        
+    },
+    "super_categories":
+    {
+        "Target": [ "About_Item"],
+        "Amazon": ["abc2"],
+        "Alibaba": ["abc4"],
+        "Ebay": ["abc6"],
+        "Etsy": ["abc10"],
+        "Bestbuy" : ["abc12"],
+        "Homedepot" : ["abc14"],
+        "Apple" : ["abc16"],
+        "Wayfair" : ["abc18"]
+        
+    }
+}

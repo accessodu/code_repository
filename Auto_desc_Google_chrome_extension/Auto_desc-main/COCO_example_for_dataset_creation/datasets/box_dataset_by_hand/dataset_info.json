@@ -1,0 +1,16 @@
+{
+    "info":
+    {
+        "description": "Test dataset",
+        "version": "1",
+        "url": "no-url/datasets.com",
+        "year": 2021,
+        "contributor": "Yash Prakash",
+        "date_created": "20/04/2021"
+    },
+    "license":{
+        "url":"no-url/licenses.com",
+        "id": 0,
+        "name": "testing"
+    }
+}
